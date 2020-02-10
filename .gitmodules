@@ -1,0 +1,15 @@
+[submodule "my_plugins/utilisnips"]
+	path = my_plugins/utilisnips
+	url = git@github.com:SirVer/ultisnips.git
+[submodule "my_plugins/vim-cmake"]
+	path = my_plugins/vim-cmake
+	url = git@github.com:vhdirk/vim-cmake.git
+[submodule "my_plugins/vimtex"]
+	path = my_plugins/vimtex
+	url = git@github.com:lervag/vimtex.git
+[submodule "my_plugins/vim-grammarous"]
+	path = my_plugins/vim-grammarous
+	url = git@github.com:rhysd/vim-grammarous.git
+[submodule "my_plugins/YouCompleteMe"]
+	path = my_plugins/YouCompleteMe
+	url = git@github.com:ycm-core/YouCompleteMe.git
